@@ -1,0 +1,25 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pandas = "*"
+xlrd = "*"
+requests = "*"
+beautifulsoup4 = "*"
+matplotlib = "*"
+sqlalchemy = "*"
+psycopg2 = "*"
+psycopg2-binary = "*"
+meteocalc = "*"
+seaborn = "*"
+multiprocessing = "*"
+parsepy = "*"
+pyowm = "*"
+scrapy-useragents = "*"
+
+[requires]
+python_version = "3.7"
