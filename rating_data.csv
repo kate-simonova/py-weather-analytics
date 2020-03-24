@@ -1,0 +1,477 @@
+77,Tenerife,Spain,89.858
+349,Gran Canaria,Spain,88.926
+10,Nairobi,Kenya,86.025
+459,San Diego,United States,85.997
+461,Los Angeles,United States,84.686
+18,Funchal,Portugal,84.188
+378,Queretaro,Mexico,82.199
+78,Guadalajara,Mexico,81.97
+222,Port Elizabeth,South Africa,81.64
+88,Guatemala City,Guatemala,80.953
+253,Santa Barbara,United States,80.56
+314,Mexico City,Mexico,79.91
+384,Rabat,Morocco,78.966
+94,Cape Town,South Africa,78.25
+200,Faro,Portugal,78.144
+294,Belo Horizonte,Brazil,77.519
+359,Puebla,Mexico,77.273
+161,Durban,South Africa,77.014
+47,Gold Coast,Australia,76.503
+380,Mysore,India,75.557
+96,Casablanca,Morocco,75.466
+382,Quito,Ecuador,74.679
+460,Johannesburg,South Africa,73.961
+476,Malaga,Spain,73.72
+383,Alexandria,Egypt,72.985
+464,San Jose,United States,72.27
+21,Gaborone,Botswana,71.977
+389,Alicante,Spain,71.736
+381,Heraklion,Greece,71.338
+462,San Francisco,United States,70.684
+282,Maputo,Mozambique,70.245
+201,Windhoek,Namibia,70.12
+137,Palermo,Italy,69.698
+217,Curitiba,Brazil,69.671
+281,Sao Paulo,Brazil,69.599
+478,Malta,Malta,69.415
+8,Brasilia,Brazil,69.08
+213,Florianopolis,Brazil,68.546
+353,Montevideo,Uruguay,68.355
+273,Santiago,Chile,68.247
+138,Valencia,Spain,68.125
+22,Brisbane,Australia,67.871
+466,San Jose Del Cabo,Mexico,67.861
+156,Paphos,Cyprus,67.821
+179,Perth,Australia,67.402
+72,Tel-aviv,Israel,67.399
+74,Cairo,Egypt,67.137
+248,Kathmandu,Nepal,67.126
+370,Punta del Este,Uruguay,66.944
+143,Palma de Mallorca,Spain,66.919
+325,Kunming,China,66.873
+247,Porto Alegre,Brazil,66.574
+303,Sevilla,Spain,66.363
+387,Algier,Algeria,66.263
+99,Catania,Italy,65.863
+456,Londrina,Brazil,65.779
+280,Beirut,Lebanon,65.713
+262,Barcelona,Spain,65.708
+19,Sydney,Australia,65.342
+250,Porto,Portugal,65.301
+246,San José,Costa Rica,65.171
+65,Nice,France,64.997
+424,Athens,Greece,64.989
+43,Buenos Aires,Argentina,64.685
+66,Cagliari,Italy,64.538
+397,Amman,Jordan,64.464
+368,Adelaide,Australia,64.406
+193,Cordoba,Argentina,64.374
+344,Larnaca,Cyprus,64.308
+106,Hamilton,New Zealand,64.24
+61,Tauranga,New Zealand,63.829
+167,Patras,Greece,63.7
+445,Bakersfield,United States,63.343
+356,Montpellier,France,63.221
+249,Bangalore,India,63.176
+348,Monterrey,Mexico,62.954
+438,Sacramento,United States,62.861
+263,Santa Rosa,United States,62.842
+265,Bari,Italy,62.651
+290,Marseille,France,62.643
+38,Genoa,Italy,62.532
+15,Fresno,United States,62.39
+180,Concepcion,Chile,62.307
+406,Honolulu,United States,62.086
+416,Rio De Janeiro,Brazil,61.929
+427,Indore,India,61.893
+268,Santander,Spain,61.699
+119,Tucson,United States,61.683
+313,Bilbao,Spain,61.509
+365,Pune,India,61.367
+30,Naples,Italy,61.233
+207,Corunna,Spain,60.643
+228,Damascus,Syria,60.636
+198,Corfu,Greece,60.52
+412,Antalya,Turkey,60.196
+432,Auckland,New Zealand,60.015
+177,Vitoria,Brazil,59.379
+338,Split,Croatia,59.249
+196,Phoenix,United States,59.105
+431,Rome,Italy,59.033
+299,Medellin,Colombia,58.926
+202,Pisa,Italy,58.839
+363,Adana,Turkey,58.803
+310,Shiraz,Iran,58.638
+390,Las Vegas,United States,58.593
+238,Zaragoza,Spain,58.575
+255,Santa Cruz,Bolivia,58.239
+44,Goiania,Brazil,58.238
+92,Tirana,Albania,58.011
+362,Puerto Vallarta,Mexico,57.908
+444,Izmir,Turkey,57.905
+80,Thessaloniki,Greece,57.713
+448,Jacksonville,United States,57.675
+194,Wellington,New Zealand,57.571
+105,Orlando,United States,57.566
+45,Tampa,United States,57.431
+103,Toulouse,France,57.38
+371,Havana,Cuba,57.307
+391,Hilo,United States,57.091
+436,Istanbul,Turkey,56.853
+293,Savannah,United States,56.649
+386,Hermosillo,Mexico,56.539
+347,Bordeaux,France,56.4
+86,Canberra,Australia,56.145
+221,Fort Myers,United States,56.058
+465,Lubbock,United States,56.021
+304,Melbourne,Australia,55.863
+340,Mobile,United States,55.627
+35,Tallahassee,United States,55.523
+421,Riyadh,Saudi Arabia,55.49
+82,Cali,Colombia,55.482
+209,Florence,Italy,55.453
+295,Mashhad,Iran,55.428
+474,Madrid,Spain,55.306
+434,Lisbon,Portugal,55.14
+379,Albuquerque,United States,55.049
+184,Esfahan,Iran,55.045
+422,Asuncion,Paraguay,54.96
+183,Perugia,Italy,54.922
+70,Greenville,United States,54.88
+229,Kabul,Afghanistan,54.272
+451,Jaipur,India,54.245
+26,Nantes,France,54.185
+428,Atlanta,United States,53.985
+204,Fayetteville,United States,53.634
+439,Austin,United States,53.634
+236,Bahrain,Bahrain,53.595
+437,Augusta,United States,53.591
+28,Gaziantep,Turkey,53.51
+157,Venice,Italy,53.506
+107,Chandigarh,India,53.455
+172,Columbia,United States,53.427
+69,Tehran,Iran,53.386
+164,Parma,Italy,53.284
+339,Bologna,Italy,53.235
+120,Charlotte,United States,53.195
+272,Batumi,Georgia,53.18
+154,Varna,Bulgaria,53.113
+54,New Orleans,United States,53.1
+324,Milan,Italy,53.088
+51,Burgas,Bulgaria,53.036
+214,Podgorica,Montenegro,52.997
+402,Hong Kong,Hong Kong,52.946
+146,Pamplona,Spain,52.914
+411,Houston,United States,52.886
+53,Granada,Spain,52.869
+219,Poitiers,France,52.842
+443,Baghdad,Iraq,52.544
+225,Dallas,United States,52.437
+306,Bermuda,Bermuda,52.394
+400,Hobart,Australia,52.335
+140,Doha,Qatar,52.334
+245,Karachi,Pakistan,52.282
+317,Miami,United States,52.167
+108,Trieste,Italy,52.05
+208,Plovdiv,Bulgaria,51.935
+315,Shreveport,United States,51.907
+166,Dushanbe,Tajikistan,51.892
+128,Chengdu,China,51.876
+388,Raleigh,United States,51.758
+417,Hyderabad,India,51.677
+328,Skopje,Macedonia,51.619
+97,Oklahoma City,United States,51.612
+330,Kuwait,Kuwait,51.536
+450,Baku,Azerbaijan,51.528
+433,Irbil,Iraq,51.485
+67,Greensboro,United States,51.325
+288,Belgrade,Serbia,51.286
+73,Norfolk,United States,51.259
+148,Christchurch,New Zealand,51.214
+399,Reno,United States,51.188
+64,Tbilisi,Georgia,51.173
+56,Tashkent,Uzbekistan,51.093
+409,Ankara,Turkey,51.015
+413,Huntsville,United States,50.906
+341,Lahore,Pakistan,50.796
+90,Guayaquil,Ecuador,50.736
+71,Cairns,Australia,50.589
+144,Valladolid,Spain,50.537
+116,Delhi,India,50.521
+189,Eugene,United States,50.352
+472,Lyon,France,50.301
+447,Salem,United States,50.261
+283,Knoxville,United States,50.193
+58,Busan,South Korea,50.186
+115,Osijek,Croatia,50.166
+418,Lille,France,50.136
+185,Constanta,Romania,50.034
+150,Dubai,United Arab Emirates,50.008
+342,Bolzano,Italy,49.951
+37,Nashville,United States,49.813
+355,Abu Dhabi,United Arab Emirates,49.779
+93,Guwahati,India,49.735
+297,Seattle,United States,49.683
+89,Cancun,Mexico,49.654
+239,Portland,United States,49.583
+139,Chiang Mai,Thailand,49.245
+212,Craiova,Romania,49.157
+407,Richmond,United States,49.143
+36,Bucharest,Romania,49.051
+122,Tulsa,United States,49.049
+3,Strasbourg,France,49.031
+357,Hanoi,Vietnam,48.827
+308,Memphis,United States,48.824
+300,Seoul,South Korea,48.594
+449,London,United Kingdom,48.537
+332,Sofia,Bulgaria,48.409
+83,Guangzhou,China,48.404
+49,New Haven,United States,48.395
+307,Shanghai,China,48.381
+292,Bellingham,United States,48.378
+197,Wichita,United States,48.367
+234,Zagreb,Croatia,48.341
+257,Banja Luka,Bosnia and Herzegovina,48.288
+121,Denver,United States,48.172
+32,Taipei,Taiwan,48.123
+287,Maribor,Slovenia,48.122
+14,Suzhou,China,48.099
+240,Kaohsiung,Taiwan,48.098
+91,Odessa,Ukraine,48.062
+87,Timisoara,Romania,47.935
+226,Yerevan,Armenia,47.827
+469,Lugano,Switzerland,47.75
+220,Dalian,China,47.562
+420,Iasi,Romania,47.561
+323,Bishkek,Kyrgyzstan,47.505
+159,Paris,France,47.488
+190,Washington,United States,47.485
+145,Chisinau,Moldova,47.464
+375,Muscat,Oman,47.453
+385,Nagoya,Japan,47.416
+16,Nandi,Fiji,47.386
+335,Boise,United States,47.292
+5,Boulder,United States,47.266
+20,Nanjing,China,47.261
+95,Tokyo,Japan,47.233
+181,Eindhoven,Netherlands,47.195
+165,Vienna,Austria,47.157
+279,Mannheim,Germany,47.142
+12,Bratislava,Slovakia,47.105
+133,Dhaka,Bangladesh,46.981
+237,Kansas City,United States,46.959
+4,Nagpur,India,46.935
+57,New York,United States,46.912
+415,Lexington,United States,46.91
+149,Vancouver,Canada,46.819
+160,Cluj-napoca,Romania,46.811
+320,Sibiu,Romania,46.792
+40,Budapest,Hungary,46.64
+186,Philadelphia,United States,46.618
+62,Graz,Austria,46.606
+117,Charleston,United States,46.546
+468,Lucknow,India,46.543
+309,Krasnodar,Russia,46.522
+42,Nassau,Bahamas,46.51
+162,Victoria,Canada,46.38
+11,Surat,India,46.27
+452,Salt Lake City,United States,46.226
+241,Baltimore,United States,46.133
+454,Salvador,Brazil,46.026
+331,Bogota,Colombia,46.003
+152,Cincinnati,United States,45.977
+463,Louisville,United States,45.703
+298,Kosice,Slovakia,45.622
+142,Donetsk,Ukraine,45.551
+215,Xi'an,China,45.525
+175,Columbus,United States,45.395
+346,Springfield,United States,45.256
+210,Wroclaw,Poland,45.21
+277,Beijing,China,45.114
+327,Bloomington,United States,45.067
+75,Groningen,Netherlands,45.015
+367,Hartford,United States,44.992
+364,Harrisburg,United States,44.959
+205,Pittsburgh,United States,44.917
+33,Brussels,Belgium,44.894
+110,Osaka,Japan,44.884
+155,Cleveland,United States,44.866
+425,Lincoln,United States,44.841
+373,Ahmedabad,India,44.84
+393,Almaty,Kazakhstan,44.647
+284,Sarajevo,Bosnia and Herzegovina,44.582
+256,Poznan,Poland,44.545
+34,Geneva,Switzerland,44.538
+29,Brno,Czech Republic,44.522
+158,Dunedin,New Zealand,44.514
+63,Bydgoszcz,Poland,44.49
+305,Krakow,Poland,44.489
+230,Port Moresby,Papua New Guinea,44.486
+352,Hangzhou,China,44.467
+187,Warsaw,Poland,44.457
+429,Iowa City,United States,44.42
+1,Boston,United States,44.358
+6,Fortaleza,Brazil,44.272
+301,Berlin,Germany,44.256
+423,Indianapolis,United States,44.254
+430,Linz,Austria,43.981
+136,Dnepropetrovsk,Ukraine,43.973
+446,Lodz,Poland,43.789
+85,Nuremberg,Germany,43.786
+76,Norwich,United Kingdom,43.663
+123,Ostrava,Czech Republic,43.656
+27,Szczecin,Poland,43.633
+458,Jeddah,Saudi Arabia,43.557
+102,Omaha,United States,43.526
+435,Rzeszow,Poland,43.506
+129,Detroit,United States,43.474
+343,Spokane,United States,43.461
+124,Des Moines,United States,43.435
+259,Prague,Czech Republic,43.426
+147,Dresden,Germany,43.341
+170,Dusseldorf,Germany,43.326
+311,Bern,Switzerland,43.296
+270,Mangalore,India,43.275
+274,Kiev,Ukraine,43.19
+141,Chicago,United States,43.187
+7,Stuttgart,Germany,43.067
+134,Cheyenne,United States,43.035
+403,Leipzig,Germany,42.928
+2,Fort Wayne,United States,42.914
+271,Kharkov,Ukraine,42.759
+401,Amsterdam,Netherlands,42.758
+441,Ivano-Frankivsk,Ukraine,42.669
+266,Kelowna,Canada,42.668
+392,Recife,Brazil,42.63
+169,Vientiane,Laos,42.62
+471,Lvov,Ukraine,42.456
+254,Katowice,Poland,42.435
+360,Hannover,Germany,42.408
+188,Copenhagen,Denmark,42.392
+329,Milwaukee,United States,42.33
+473,Madison,United States,42.303
+318,Billings,United States,42.257
+9,Frankfurt,Germany,42.217
+326,Sioux Falls,United States,41.992
+358,Accra,Ghana,41.937
+59,Grand Rapids,United States,41.841
+211,Plymouth,United Kingdom,41.803
+41,Goa,India,41.8
+467,Lublin,Poland,41.656
+17,Bremen,Germany,41.64
+243,Zurich,Switzerland,41.559
+377,Albany,United States,41.545
+440,Ljubljana,Slovenia,41.537
+333,Southampton,United Kingdom,41.537
+232,Kaliningrad,Russia,41.484
+426,Rochester,United States,41.445
+163,Cologne,Germany,41.423
+291,Kolkata,India,41.338
+46,Buffalo,United States,41.283
+321,Birmingham,United Kingdom,41.257
+414,Aarhus,Denmark,40.937
+334,Minneapolis,United States,40.903
+31,Gdansk,Poland,40.884
+233,Darwin,Australia,40.697
+113,Debrecen,Hungary,40.675
+25,Bristol,United Kingdom,40.654
+372,Munich,Germany,40.531
+55,Burlington,United States,40.41
+394,Lausanne,Switzerland,40.363
+100,Toronto,Canada,40.303
+195,Fargo,United States,40.063
+23,Syracuse,United States,40.052
+408,Lethbridge,Canada,39.819
+337,Minsk,Belarus,39.679
+276,Santo Domingo,Dominican Republic,39.345
+112,Changchun,China,39.065
+182,Vladivostok,Russia,38.95
+227,Port Louis,Mauritius,38.926
+267,Manchester,United Kingdom,38.788
+101,Hamburg,Germany,38.602
+258,Kaunas,Lithuania,38.431
+410,Riga,Latvia,38.118
+264,Managua,Nicaragua,37.684
+336,La Paz,Bolivia,37.627
+470,Luxembourg,Luxembourg,37.33
+457,Samara,Russia,37.268
+24,Galway,Ireland,37.237
+13,Fredericton,Canada,37.068
+203,Cork,Ireland,37.044
+354,Stockholm,Sweden,36.917
+126,Ottawa,Canada,36.841
+453,Denpasar,Indonesia,36.784
+366,Moscow,Russia,36.744
+285,Belfast,United Kingdom,36.698
+361,Montreal,Canada,36.29
+369,Mumbai,India,36.253
+231,Yogyakarta,Indonesia,36.23
+60,Newcastle,United Kingdom,36.212
+52,Tartu,Estonia,36.149
+98,Halifax,Canada,36.009
+174,Vilnius,Lithuania,35.952
+153,Dublin,Ireland,35.812
+251,San Salvador,El Salvador,35.589
+168,Colombo,Sri Lanka,35.479
+79,Calgary,Canada,35.468
+50,Gothenborg,Sweden,35.308
+289,Saskatoon,Canada,35.215
+68,Nizhny Novgorod,Russia,35.106
+419,Astana,Kazakhstan,34.976
+261,Kazan,Russia,34.845
+475,Madurai,India,34.695
+173,Edinburgh,United Kingdom,34.566
+39,Tallinn,Estonia,34.384
+286,Kochi,India,34.346
+345,Moncton,Canada,34.213
+442,Saint-Petersburg,Russia,34.161
+278,Kingston,Jamaica,33.991
+130,Ufa,Russia,33.704
+398,Leeds,United Kingdom,33.499
+127,Turku,Finland,33.434
+218,Yangon,Myanmar,33.412
+125,Chelyabinsk,Russia,33.396
+199,Phuket,Thailand,33.328
+178,Edmonton,Canada,33.008
+252,Bangkok,Thailand,32.933
+350,Aberdeen,United Kingdom,32.793
+151,Panama City,Panama,32.702
+84,Thunder Bay,Canada,32.662
+216,Fort Mcmurray,Canada,32.246
+81,Novosibirsk,Russia,32.218
+191,Phnom Penh,Cambodia,32.145
+455,Jakarta,Indonesia,32.052
+374,Quebec,Canada,32.013
+269,Barranquilla,Colombia,31.978
+104,Cebu,Philippines,31.725
+135,Ulaanbaatar,Mongolia,31.721
+206,Winnipeg,Canada,31.364
+376,Helsinki,Finland,31.266
+131,Chennai,India,31.136
+48,Tampere,Finland,30.634
+316,Kuala Lumpur,Malaysia,30.411
+396,Ho Chi Minh City,Vietnam,30.368
+312,Krasnoyarsk,Russia,30.29
+395,Regina,Canada,30.077
+109,Davao,Philippines,29.403
+223,Yekaterinburg,Russia,29.383
+405,Anchorage,United States,29.354
+319,Kuching,Malaysia,29.07
+275,Manila,Philippines,28.811
+351,Stavanger,Norway,28.705
+118,Oslo,Norway,28.448
+171,Penang,Malaysia,28.212
+192,Fairbanks,United States,28.053
+322,Singapore,Singapore,27.977
+132,Oulu,Finland,27.792
+260,Santa Marta,Colombia,27.608
+176,Perm,Russia,27.55
+224,Jyvaskyla,Finland,27.294
+477,Male,Maldives,26.238
+114,Trondheim,Norway,25.604
+235,Port of spain,Trinidad and Tobago,24.999
+244,Bandar Seri Begawan,Brunei,24.864
+302,Kota Kinabalu,Malaysia,24.287
+296,Bergen,Norway,23.437
+111,Tromso,Norway,17.52
+404,Reykjavik,Iceland,15.135
